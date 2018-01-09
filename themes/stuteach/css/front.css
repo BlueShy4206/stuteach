@@ -1,0 +1,381 @@
+/* CSS Document */
+
+body{
+	margin-top:0;
+	margin-left:0;
+
+}
+
+#header {
+	background-image:url(../img/bg.gif);
+	background-repeat:repeat-x;
+}
+
+
+
+#icon a:hover{
+	position:relative;top:2px;left:2px;
+}
+
+
+
+#main  {
+	font-size:16px;
+	font-style:normal;
+	color: #333333;
+}
+
+
+#main .line  {
+	border-bottom: 1px dotted #0099FF;
+}
+
+#main .line01  {
+	border-bottom: 2px double #9DD5FD;
+}
+
+
+#main .line02  {
+	border-left: 1px dashed #CCCCCC;
+
+}
+
+#main .line03{
+	border-bottom: 1px dashed #999999;
+}
+
+
+#main .title1{
+	font-size:16px;
+	font-weight:600;
+	color: #666666;
+	letter-spacing:2px;
+}
+
+#main .title{
+	font-size:16px;
+	font-weight:600;
+	color: #666666;
+	border-bottom: 2px double #1e79cf;
+	letter-spacing:2px;
+}
+
+#main .title2 {
+  font-family: Times New Roman, Arial, Helvetica, sans-serif;
+  font-size:18px;
+  font-weight: bold;
+   }
+
+#main .s_title{
+	font-size:16px;
+	font-weight:600;
+	color: #666666;
+	border-bottom: 1px dashed #999999;
+	letter-spacing:2px;
+}
+
+
+
+#main .butn01 {
+	font-family: Geneva, Arial, Helvetica, sans-serif, "新細明體";
+	font-size: 12px;
+	color: #333333;
+	border: 3px double #999;
+	border-left-color: #ccc;
+	border-top-color: #ccc;
+	padding: 0.2em 0.2em 0.1em 0.3em;
+	cursor: pointer;
+	background-color:#9DD5FD;
+
+}
+
+#main .butn02 {
+	font-family: Geneva, Arial, Helvetica, sans-serif, "新細明體";
+	font-size: 12px;
+	color: #333333;
+	border: 3px double #999;
+	border-left-color: #ccc;
+	border-top-color: #ccc;
+	padding: 0.2em 0.2em 0.1em 0.3em;
+	cursor: pointer;
+	background-color:#FF9900;
+
+}
+
+#main .butn03 {
+	font-family: Geneva, Arial, Helvetica, sans-serif, "新細明體";
+	font-size: 12px;
+	color: #333333;
+	border: 3px double #999;
+	border-left-color: #ccc;
+	border-top-color: #ccc;
+	padding: 0.2em 0.2em 0.1em 0.3em;
+	cursor: pointer;
+	background-color:#33CCCC;
+}
+
+#main .butn04 {
+	font-family: Geneva, Arial, Helvetica, sans-serif, "新細明體";
+	font-size: 12px;
+	color: #FFFFFF;
+	border: 3px double #999;
+	border-left-color: #ccc;
+	border-top-color: #ccc;
+	padding: 0.2em 0.2em 0.1em 0.3em;
+	cursor: pointer;
+	background-color:#299DBA;
+
+}
+
+
+#main a{
+	font-size:16px;
+	font-style:normal;
+	color:#299DBA;
+	text-decoration:none;
+
+}
+
+#main a:hover{
+	font-size:16px;
+	font-style:normal;
+	color:#333333;
+	text-decoration: none;
+	position:relative;top:2px;left:2px;
+
+}
+
+
+#main .record{
+	font-size: 16px;
+	font-family: "新細明體", verdana, lucida, sans-serif;
+	background-color: #E0F2FE;
+	border-bottom: 1px solid #999999;
+	letter-spacing: 0.25 em;
+	text-transform: capitalize;
+	word-spacing: 0.8 em;
+	line-height: 22px ;
+	vertical-align: top;
+}
+
+#main .record01{
+	font-size: 16px;
+	font-family: "新細明體", Courier New, lucida, sans-serif;
+	font-style: em;
+	color:#0000FF;
+	background-color: #E0F2FE;
+	border-bottom: 1px solid #999999;
+	letter-spacing: 0.1 em;
+	line-height: 22px ;
+	vertical-align: top;
+}
+
+
+#main .print_text{
+	font-size:16px;
+	font-weight:600;
+	color: #666666;
+	letter-spacing:2px;
+}
+
+
+
+#footer {
+	font-size:12px;
+	color:#333333;
+	border-top: 1px solid #666666;
+	line-height:10px;
+}
+
+.footer {
+	font-size:12px;
+	color:#333333;
+	border-top: 1px solid #666666;
+	line-height:10px;
+}
+
+.footer01 {
+	font-size:12px;
+	color:#333333;
+	line-height:10px;
+}
+
+
+/*diagnosis*/
+
+.d_title{
+	font-size:18px;
+	font-weight:600;
+	color: #555555;
+	letter-spacing:2px;
+	line-height:22px;
+	text-decoration:underline;
+	}
+	
+.d_s_title{
+	font-size:16px;
+	color: #333333;
+}
+	
+#d_line{
+	border-left:solid 2px #999999;
+	border-bottom:solid 2px #999999;
+	border-top:solid 2px #999999;
+}
+
+.d_tableline{
+	border:solid 2px #999999;
+}
+
+.d_text{
+	font-size:16px;
+	color: #333333;
+	border-left:solid 1px  #999999;
+	border-right:solid 1px #999999;
+	border-top:solid 1px #999999;
+}
+
+.d_s_title01{
+	font-size:16px;
+	color: #333333;
+	border-left:solid 2px  #999999;
+	border-top:solid 2px  #999999;
+	border-right:solid 1px  #999999;
+	border-bottom:solid 1px #999999;
+}
+
+.d_s_title02{
+	font-size:16px;
+	color: #333333;
+	border-top:solid 2px  #999999;
+	border-right:solid 1px  #999999;
+	border-bottom:solid 1px #999999;
+}
+
+.d_s_title03{
+	font-size:16px;
+	color: #333333;
+	border-top:solid 2px  #999999;
+	border-right:solid 2px  #999999;
+	border-bottom:solid 1px #999999;
+}
+
+.d_s_title04{
+	font-size:16px;
+	color: #333333;
+	border-left:solid 2px  #999999;
+	border-right:solid 1px  #999999;
+	border-bottom:solid 1px #999999;
+}
+
+.d_s_title05{
+	font-size:16px;
+	color: #333333;
+	border-right:solid 1px  #999999;
+	border-bottom:solid 1px #999999;
+}
+
+.d_s_title06{
+	font-size:16px;
+	color: #333333;
+	border-right:solid 2px  #999999;
+	border-bottom:solid 1px #999999;
+}
+
+.d_s_title07{
+	font-size:16px;
+	color: #333333;
+	border-left:solid 2px  #999999;
+	border-right:solid 1px  #999999;
+	border-bottom:solid 2px #999999;
+}
+
+.d_s_title08{
+	font-size:16px;
+	color: #333333;
+	border-right:solid 1px  #999999;
+	border-bottom:solid 2px #999999;
+}
+
+.d_s_title09{
+	font-size:16px;
+	color: #333333;
+	border-right:solid 2px  #999999;
+	border-bottom:solid 2px #999999;
+}
+
+.d_s_title31{
+	font-size:16px;
+	color: #333333;
+	border-top:solid 1px  #999999;
+	border-right:solid 2px  #999999;
+}
+
+.d_s_title32{
+	font-size:16px;
+	color: #333333;
+	border-top:solid 1px  #999999;
+}
+
+.d_s_title41{
+	font-size:16px;
+	color: #333333;
+	border-top:solid 1px  #999999;
+	border-right:solid 1px  #999999;
+}
+
+.d_s_title42{
+	font-size:16px;
+	color: #333333;
+	border-top:solid 1px  #999999;
+}
+
+.d_sg_text31{
+	font-size:12px;
+	color: #333333;
+	border-top:solid 1px  #999999;
+	border-right:solid 2px  #999999;
+}
+
+.d_sg_text32{
+	font-size:12px;
+	color: #333333;
+	border-top:solid 1px  #999999;
+}
+
+
+
+#d_line01{
+	border:solid 1px #999999;
+}
+
+.d_text01{
+	font-size:16px;
+	color: #333333;
+	border-left:solid 1px  #999999;
+	border-right:solid 1px #999999;
+	border-bottom:solid 1px #999999;
+}
+
+#d_text02{
+	font-size:16px;
+	color: #333333;
+	border-left:solid 1px  #999999;
+	border-right:solid 2px #999999;
+	border-top:solid 1px #999999;
+}
+
+#d_butn01 {
+	font-family: Geneva, Arial, Helvetica, sans-serif, "新細明體";
+	font-size: 12px;
+	color: #333333;
+	border: 3px double #999;
+	border-left-color: #ccc;
+	border-top-color: #ccc;
+	padding: 0.2em 0.2em 0.1em 0.3em;
+	cursor: pointer;
+	background-color:#9DD5FD;
+}
+
+
+/*diagnosis.........................end*/

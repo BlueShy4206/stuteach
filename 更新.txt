@@ -1,0 +1,14 @@
+20090227
+程式
+1.開卷系統ConceptStructure資料夾
+2.adp_core_function.php
+到ctrlEP.php 252行
+在ConceptStructure中，新增warn_windows
+資料庫
+1.exam_paper_access_irt 
+2.exam_type_irt_e
+3.exam_type_irt_s
+4.exam_type_irt_t
+5.exam_type_irt 
+6.concept_item_parameter_mirt 
+///更新20090416

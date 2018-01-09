@@ -1,0 +1,86 @@
+a:14:{s:8:"provides";a:0:{}s:8:"filelist";a:36:{s:8:"Auth.php";a:4:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:0:"";s:12:"replacements";a:1:{i:0;a:3:{s:4:"from";s:9:"@version@";s:2:"to";s:7:"version";s:4:"type";s:12:"package-info";}}s:12:"installed_as";s:28:"C:\AppServ\php\pear\Auth.php";}s:13:"Auth\Auth.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:0:"";s:12:"installed_as";s:33:"C:\AppServ\php\pear\Auth\Auth.php";}s:19:"Auth\Controller.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:0:"";s:12:"installed_as";s:39:"C:\AppServ\php\pear\Auth\Controller.php";}s:13:"Container.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:38:"C:\AppServ\php\pear\Auth\Container.php";}s:11:"README.Auth";a:3:{s:4:"role";s:3:"doc";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:41:"C:\AppServ\php\pear\docs\Auth\README.Auth";}s:16:"Container\DB.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:41:"C:\AppServ\php\pear\Auth\Container\DB.php";}s:20:"Container\DBLite.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:45:"C:\AppServ\php\pear\Auth\Container\DBLite.php";}s:18:"Container\File.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\File.php";}s:18:"Container\IMAP.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\IMAP.php";}s:18:"Container\POP3.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\POP3.php";}s:18:"Container\LDAP.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\LDAP.php";}s:17:"Container\MDB.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:42:"C:\AppServ\php\pear\Auth\Container\MDB.php";}s:18:"Container\MDB2.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\MDB2.php";}s:20:"Container\RADIUS.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:45:"C:\AppServ\php\pear\Auth\Container\RADIUS.php";}s:23:"Container\SMBPasswd.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:48:"C:\AppServ\php\pear\Auth\Container\SMBPasswd.php";}s:18:"Container\SOAP.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\SOAP.php";}s:22:"Container\vpopmail.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:47:"C:\AppServ\php\pear\Auth\Container\vpopmail.php";}s:18:"Container\PEAR.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:43:"C:\AppServ\php\pear\Auth\Container\PEAR.php";}s:17:"Frontend\Html.php";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:42:"C:\AppServ\php\pear\Auth\Frontend\Html.php";}s:15:"Frontend\md5.js";a:3:{s:4:"role";s:3:"php";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:40:"C:\AppServ\php\pear\Auth\Frontend\md5.js";}s:35:"tests\auth_container_db_options.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:66:"C:\AppServ\php\pear\tests\Auth\tests\auth_container_db_options.php";}s:21:"tests\DBContainer.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:52:"C:\AppServ\php\pear\tests\Auth\tests\DBContainer.php";}s:37:"tests\auth_container_file_options.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:68:"C:\AppServ\php\pear\tests\Auth\tests\auth_container_file_options.php";}s:23:"tests\FileContainer.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:54:"C:\AppServ\php\pear\tests\Auth\tests\FileContainer.php";}s:37:"tests\auth_container_pop3_options.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:68:"C:\AppServ\php\pear\tests\Auth\tests\auth_container_pop3_options.php";}s:36:"tests\auth_container_mdb_options.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:67:"C:\AppServ\php\pear\tests\Auth\tests\auth_container_mdb_options.php";}s:22:"tests\MDBContainer.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:53:"C:\AppServ\php\pear\tests\Auth\tests\MDBContainer.php";}s:37:"tests\auth_container_mdb2_options.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:68:"C:\AppServ\php\pear\tests\Auth\tests\auth_container_mdb2_options.php";}s:23:"tests\MDB2Container.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:54:"C:\AppServ\php\pear\tests\Auth\tests\MDB2Container.php";}s:23:"tests\POP3Container.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:54:"C:\AppServ\php\pear\tests\Auth\tests\POP3Container.php";}s:38:"tests\auth_container_pop3a_options.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:69:"C:\AppServ\php\pear\tests\Auth\tests\auth_container_pop3a_options.php";}s:24:"tests\POP3aContainer.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:55:"C:\AppServ\php\pear\tests\Auth\tests\POP3aContainer.php";}s:27:"tests\TestAuthContainer.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:58:"C:\AppServ\php\pear\tests\Auth\tests\TestAuthContainer.php";}s:11:"tests\users";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:42:"C:\AppServ\php\pear\tests\Auth\tests\users";}s:15:"tests\tests.php";a:3:{s:4:"role";s:4:"test";s:14:"baseinstalldir";s:4:"Auth";s:12:"installed_as";s:46:"C:\AppServ\php\pear\tests\Auth\tests\tests.php";}s:7:"dirtree";a:6:{s:19:"C:\AppServ\php\pear";b:1;s:24:"C:\AppServ\php\pear\Auth";b:1;s:29:"C:\AppServ\php\pear\docs\Auth";b:1;s:34:"C:\AppServ\php\pear\Auth\Container";b:1;s:33:"C:\AppServ\php\pear\Auth\Frontend";b:1;s:36:"C:\AppServ\php\pear\tests\Auth\tests";b:1;}}s:7:"package";s:4:"Auth";s:7:"summary";s:34:"Creating an authentication system.";s:11:"description";s:455:"The PEAR::Auth package provides methods for creating an authentication
+system using PHP.
+
+Currently it supports the following storage containers to read/write
+the login data:
+
+* All databases supported by the PEAR database layer
+* All databases supported by the MDB database layer
+* All databases supported by the MDB2 database layer
+* Plaintext files
+* LDAP servers
+* POP3 servers
+* IMAP servers
+* vpopmail accounts
+* RADIUS
+* SAMBA password files
+* SOAP";s:11:"maintainers";a:3:{i:0;a:4:{s:6:"handle";s:2:"MJ";s:4:"name";s:13:"Martin Jansen";s:5:"email";s:10:"mj@php.net";s:4:"role";s:4:"lead";}i:1;a:4:{s:6:"handle";s:7:"jflemer";s:4:"name";s:15:"James E. Flemer";s:5:"email";s:19:"jflemer@acm.jhu.edu";s:4:"role";s:9:"developer";}i:2;a:4:{s:6:"handle";s:4:"yavo";s:4:"name";s:15:"Yavor Shahpasov";s:5:"email";s:14:"yavo@siava.org";s:4:"role";s:4:"lead";}}s:7:"version";s:7:"1.3.0r3";s:12:"release_date";s:10:"2004-08-07";s:15:"release_license";s:11:"PHP License";s:13:"release_state";s:4:"beta";s:13:"release_notes";s:1310:"* Moved login screen generation code to Auth/Frontend/Html.php 
+  In the future the frontend will be configurable.
+* Implemented support for Challenge / Responce password authenthication
+  have to enable advanced security $auth->setAdvancedSecurity
+  will work only with DB container and cryptType = none|md5
+* Implemented setAllowLogin to control which pages are allowed to perform login, 
+  to preservce BC. Previusly the showLogin flag was used to control this - yavo
+* Implmented lazy loading for the storage constructor, constructor is only created when needed
+  to make Auth more lightweight (this might be adding a bit more overhead to login and usermanagement functions)
+* Removed include of PEAR, was not used anywhare in Auth.php
+* Created a new storage container DBLite same as DB but with the user manipulation functions removed (50% smaller)
+* Added a new method staticCheckAuth which can be called statically with only the auth options
+* Auth::importGlobalVariable method was removed and replaced by references to global variables
+* Removed all calls to $session[$this->_sessionName], made local reference session point to that instead
+* Changed call_user_func to call_user_func_array for the callbacks, to avoid using @ for passing variables by reference
+* Code Cleanup, removed most vi comments";s:12:"release_deps";a:7:{i:1;a:5:{s:4:"type";s:3:"pkg";s:3:"rel";s:2:"ge";s:7:"version";s:5:"0.9.5";s:8:"optional";s:3:"yes";s:4:"name";s:11:"File_Passwd";}i:2;a:5:{s:4:"type";s:3:"pkg";s:3:"rel";s:2:"ge";s:7:"version";s:3:"1.3";s:8:"optional";s:3:"yes";s:4:"name";s:8:"Net_POP3";}i:3;a:4:{s:4:"type";s:3:"pkg";s:3:"rel";s:3:"has";s:8:"optional";s:3:"yes";s:4:"name";s:2:"DB";}i:4;a:4:{s:4:"type";s:3:"pkg";s:3:"rel";s:3:"has";s:8:"optional";s:3:"yes";s:4:"name";s:3:"MDB";}i:5;a:4:{s:4:"type";s:3:"pkg";s:3:"rel";s:3:"has";s:8:"optional";s:3:"yes";s:4:"name";s:4:"MDB2";}i:6;a:4:{s:4:"type";s:3:"pkg";s:3:"rel";s:3:"has";s:8:"optional";s:3:"yes";s:4:"name";s:11:"Auth_RADIUS";}i:7;a:4:{s:4:"type";s:3:"pkg";s:3:"rel";s:3:"has";s:8:"optional";s:3:"yes";s:4:"name";s:14:"File_SMBPasswd";}}s:9:"changelog";a:3:{i:0;a:5:{s:7:"version";s:7:"1.3.0r1";s:12:"release_date";s:10:"2004-06-04";s:15:"release_license";s:11:"PHP License";s:13:"release_state";s:4:"beta";s:13:"release_notes";s:1936:"* Changes to LDAP container:
+  - check for loaded ldap extension at startup as suggested by Markku Turunen
+  - make ldap version configurable via config array
+  - documentation fix for active directory default user container
+  [ 14/Jun/2004 - jw]
+* Added an Auth_Controller class, to manage automatic redirection to login page and redirect back
+  to the calling page [04/06/2004 - Yavo]
+* Changes to LDAP container:
+  - additional attribute fetching to authData via new option attributes
+  - utf8 encoding username for ldapv3 (fixes german umlaut problem)
+  - make scope definable for user and group searching seperately
+  - remove useroc, groupoc and replace them with userfilter, groupfilter which is way more flexible
+  - updated documentation on all new and changed parameters
+  As some of the parameters changed this one is not backwards compatible to earlier versions.
+  Look at the top of the class where all parameters are explained in detail.
+  [08/April/2004 - jw]
+* Added new MDB2 container  [30/March/2004 - quipo]
+* Implements changePassword and CS fixed, patch from Cipriano Groenendal <cipri@cipri.com>
+  [29/March/2004 - yavo]
+* Added options for changing the post variables, patch supplied by Moritz Heidkamp <moritz.heidkamp@invision-team.de>
+  [03/March/2004 - yavo]
+* Added method setAdvancedSecurity and set advanced security to off by default, if turned on auth will perform additional
+  security checks if ip or user agent has changed across requests
+* Login is now performed only if showLogin is true, do not allow for logins to be performed from any page which calls auth->start
+  spotted by Matt Eaton <pear@divinehawk.com> [16/Jan/2004 - yavo] 
+* Fixed bug noted by Jeroen Houben <jeroen@terena.nl>, calling loginFailedCallback
+  would not have the proper status set [16/Jan/2004 - yavo]
+* Added PEAR container, authenticate the user against the pear web site
+  (probably php.net also) [16/Dec/2003 - yavo]
+
+
+";}i:1;a:5:{s:7:"version";s:5:"1.2.3";s:12:"release_date";s:10:"2003-09-08";s:15:"release_license";s:11:"PHP License";s:13:"release_state";s:6:"stable";s:13:"release_notes";s:976:"* new Method to auth_container getUser()
+* New Auth_Container_File, using new File_Passwd class. Provided by Michael Wallner <mike@php.net>
+* Login/Logout callbacks now get a reference to auth
+* New Login Failed Callback added (method setFailedLoginCallback)
+* SOAP container patch to keep a reference to the Soap responce by Bruno Pedro <bpedro@co.sapo.pt>
+* Auth is now installed in /pear-dir/Auth.php instead of /pear-dir/Auth/Auth.php, an
+  empty file /pear-dev/Auth/Auth.php wich includes Auth.php is added for BC
+* The contaner now gets a reference to the auth object ($auth->storage->_auth_obj)
+*Some patches from the pear-dev list bellow
+    -maka3d@yahoo.com.br - Patch to use a method of the container in Auth_Container::verifyPassword
+    -Lorenzo Alberton <l.alberton@quipo.it> - Patch to use variable session variable name, untill now the variable auth was used
+    -Marcos Neves <maka3d@yahoo.com.br> - Avaoid error when calling getAuthData() before the login
+
+
+";}i:2;a:5:{s:7:"version";s:5:"1.2.2";s:12:"release_date";s:10:"2003-07-29";s:15:"release_license";s:11:"PHP License";s:13:"release_state";s:6:"stable";s:13:"release_notes";s:371:"* Added support for passing contaner as an object
+* Added fix when db_fileds is *
+* Added Test Suite (experimental)
+* Added generic support for arbitrary password crypting functions
+  different than MD5, DES and plain text. (Patch by Tom Anderson)
+* Added new MDB storage container written by Lorenzo Alberton
+* Added new Container for SAMBA password files (SMBPasswd)
+
+
+";}}s:13:"_lastmodified";i:1111109502;}

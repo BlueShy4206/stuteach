@@ -1,0 +1,24 @@
+2006/02/20做的修改
+安裝t1lib
+wget http://site.n.ml.org/download/20030303070000/t1lib/t1lib-5.0.0.tar.gz
+
+./configure
+make without_doc  (因為沒有安裝Latex)
+cd type1afm/
+cp ../Fonts/type1/bchr.pfb ./.
+./type1afm bchr.pfb
+(如果順利產出bchr.afm，則OK)
+cd ..
+make install
+
+
+
+
+If you do not have X11, you can still check whether t1lib works for
+   you. Copy one of the pfb-files from t1lib-.../Fonts/type1, say,
+   bchr.pfb, to the type1afm-subdirectory, and run 
+
+     type1afm bchr.pfb
+
+   If the afm-file bchr.afm is generated, t1lib will most probably
+   work on your system.
